@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package io.hiennt98.boilerplate;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
